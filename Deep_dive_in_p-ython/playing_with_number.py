@@ -12,10 +12,9 @@ x_int= int(X)
 #Rounding , Truncate , floor ,ceil
 price = 35.54899367
 
-print(round(price))
+print(round(price))#36
 
-
-print(math.trunc(price))
+print(math.trunc(price))#35
 
 print(math.floor(price))
 
